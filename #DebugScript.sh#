@@ -1,7 +1,0 @@
-#+TITLE: Shell Script 
-#+DESCRIPTION: 
-#+AUTHOR: Linux-DEX
-#+PROPERTY: header-args :tangle bash-var.sh
-#+STARTUP: showeverything
-
-* TABLE OF CONTENT :toc:
