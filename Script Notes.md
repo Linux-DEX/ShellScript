@@ -676,5 +676,5 @@ ctrl + D
 * * * * * <command> && ./script_name.sh
 ```
 
-![crontab ][./img/crontab.png]
+![crontab ](./img/crontab.png)
 
