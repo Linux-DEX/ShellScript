@@ -548,7 +548,7 @@ test.csv
 
 + **dirname** : strip the filename and gives directory path.
 ```bash
-basename /home/user/myscripts/test.csv
+dirname /home/user/myscripts/test.csv
 
 # output
 /home/user/myscripts
@@ -611,8 +611,8 @@ echo "The name of the script is: ${0}"
 
 If you want to maintain the logging for your script, you can use **logger** in your script.
 
-You can find the logs under
-**/var/logs/messages**
+You can find the log under
+**/var/log/messages**
 
 Example: 
 ```bash
